@@ -1,0 +1,61 @@
+.records{
+    font-family: Golden Ratio;
+    position: relative;
+    display: block;
+    height: 2.5em;
+    padding: .6em .4em .4em .8em;
+    *padding: .4em;
+    margin: .5em 0 .5em 2.5em;
+    background: linear-gradient(to bottom, #004d99 5%, #041837 100%);
+    border: 2px outset #055174;
+    color: #ffffff;
+    text-decoration: none;
+    transition: all .3s ease-out;   
+}
+
+.records:hover{
+    background: linear-gradient(to bottom, #4FEB25 5%, #2A9E0B 100%);
+    color: black;
+    cursor: pointer;
+}   
+
+.records:before{
+    content: "";
+    counter-increment: li;
+    border-radius: 50%;
+    border: 2px outset #2A9E0B;
+    position: absolute; 
+    left: -2.5em;
+    top: 50%;
+    margin-top: -1em;
+    background: linear-gradient(to bottom, #4FEB25 5%, #2A9E0B 100%);
+    height: 2em;
+    width: 2em;
+    line-height: 2em;
+    text-align: center;
+    font-weight: bold;
+}
+
+.records:after{
+    position: absolute; 
+    content: '';
+    border: .5em solid transparent;
+    left: -1em;
+    top: 50%;
+    margin-top: -.5em;
+    transition: all .3s ease-out;               
+}
+
+.records:hover:after{
+    left: -.5em;
+    border-left-color: #4FEB25;             
+}   
+
+#recordList{
+    border-radius: 25px;
+    background: linear-gradient(to bottom, #3177E7 5%, #0345AF 100%);
+    padding: 15px 40px 15px 40px;
+    height: 100%;
+    width: 55%;
+    margin: auto;
+}

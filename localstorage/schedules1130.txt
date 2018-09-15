@@ -1,0 +1,9 @@
+{ "time":"11:30-12:30",
+						"data":[
+						{"name":"Jannet Etliong", "room":"s542"},
+						{"name":"Laurence Balmeo", "room":"s522"},
+						{"name":"Ali Mangaliag", "room":"s523"},
+						{"name":"Maria Concepcion Clemente", "room":"s326"},
+						{"name":"Jonathan Ramirez", "room":"s425"}
+						]
+					}

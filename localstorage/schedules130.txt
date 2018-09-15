@@ -1,0 +1,9 @@
+{ "time":"1:30-2:30",
+						"data":[
+						{"name":"Dalos Miguel", "room":"s326"},
+						{"name":"Laurence Balmeo", "room":"s522"},
+						{"name":"Ali Mangaliag", "room":"s523"},
+						{"name":"Jo Montes", "room":"s542"},
+						{"name":"Vicoy Ferrer", "room":"s425"}
+						]
+					}

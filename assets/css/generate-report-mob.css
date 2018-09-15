@@ -1,0 +1,29 @@
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+ 
+    .records{
+        font-family: Golden Ratio;
+        position: relative;
+        display: block;
+        height: inherit;
+        padding: .6em .4em .4em .8em;
+        *padding: .4em;
+        margin: .5em 0 .5em 2.5em;
+        background: linear-gradient(to bottom, #004d99 5%, #041837 100%);
+        border: 2px outset #055174;
+        color: #ffffff;
+        text-decoration: none;
+        transition: all .3s ease-out;   
+    }
+    
+    #recordList{
+        border-radius: 25px;
+        background: linear-gradient(to bottom, #3177E7 5%, #0345AF 100%);
+        padding: 15px 40px 15px 40px;
+        height: auto;
+        width: auto;
+        margin: auto;
+    }
+    
+}

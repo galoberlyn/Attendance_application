@@ -1,0 +1,155 @@
+@font-face{
+	font-family: "Adlanta";
+	src: url("../fonts/Adlanta.otf");
+}
+@font-face{
+	font-family: "AppleGaramond";
+	src: url("../fonts/AppleGaramond.ttf");
+
+}
+h2{
+	font-size: 2.5em;
+    margin: 0 auto;
+    text-shadow: 1px 0px 16px rgba(0, 0, 0, 1);  
+}
+body{
+	background: url("../img/employee.jpg");
+	background-size: 100%, 400px;
+    background-color: black;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+
+
+.alignCenter {
+	text-align: center;
+}
+
+#schedlist{
+    list-style-type: none;
+    padding: 10px;
+    text-align: center;}
+
+.sched {
+    border: 3px outset #191E4C;
+    text-align: center;
+    font-family: digiclock;
+    font-size: xx-large;
+    border-radius: 25px;
+    background:linear-gradient(to bottom, #3177E7 5%, #0345AF 100%);
+    margin: 0 auto;
+    margin-bottom: 5px;
+    padding: 10px 40px 15px 40px;
+    width: 500px;
+    height: 55px; 
+    color:  #F8F8FF;
+    box-shadow: 7px 7px 39px 1px rgba(0,0,0,1);
+    max-width: 90%;
+    transition: all .3s ease-in-out; 
+    transition-delay: .0.02s
+}
+.sched:hover{
+    background:linear-gradient(to bottom, #62CCDB 5%, #076EA9 100%);
+    transform: scale(1.1);
+    text-shadow: 1px 0px 16px rgba(0, 0, 0, 1);
+    cursor: pointer;
+    font-size: 30px;
+    
+}
+
+.sched:active{
+    position:relative;
+    top:1px;
+}
+
+
+h1{
+	font-size: 3em;
+	text-align: center;
+	font-family: plusSvn;
+	color: #F8F8FF;
+    text-shadow: 1px 0px 16px rgba(0, 0, 0, 1);  
+}
+.heading{
+    font-family: plusSvn;
+}
+#info {
+	font-family: plusSvn;
+	font-size: 20px;
+	color:  #F8F8FF;
+}	
+li {
+	list-style-type: none;
+}
+.centerBtns {
+    position: relative;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+.centerBtns button, #summarbtn{
+	background:linear-gradient(to bottom, #0CC236 5%, #087A22 100%);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: plusSvn;
+    font-size: 16px;
+    margin: 5px 5px auto;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+ .centerBtns button:hover, #summarbtn:hover {
+    transform: scale(1.05);
+    background:linear-gradient(to bottom, #12B030 5%, #075115 100%);
+    border-radius: 5px;
+}
+
+.centerBtns button:active {
+    background:linear-gradient(to bottom, #075115 5%, #12B030 100%);
+
+}
+
+.centerBtns button:focus #summarbtn:focus {
+ outline: none;
+
+}
+
+
+
+
+.close {
+    background: #606061;
+    color: #FFFFFF;
+    line-height: 25px;
+    position: absolute;
+    right: -12px;
+    text-align: center;
+    top: -10px;
+    width: 24px;
+    text-decoration: none;
+    font-weight: bold;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    -moz-box-shadow: 1px 1px 3px #000;
+    -webkit-box-shadow: 1px 1px 3px #000;
+    box-shadow: 1px 1px 3px #000;
+}
+.close:hover {
+    background: #B20808;
+}
+
+.noSched{
+	text-align:center;
+	font-size:50px;
+	font-family:plusSvn;
+	color: white;
+}

@@ -1,0 +1,9 @@
+{ "time":"8:30-9:30",
+						"data":[
+						{"name":"Ali Mangaliag", "room":"s523"},
+						{"name":"Jo Montes", "room":"s542"},
+						{"name":"Beverly Ferrer", "room":"s522"},
+						{"name":"Rhoderic Makil", "room":"s425"},
+						{"name":"Maria Concepcion Clemente", "room":"s326"}
+						]
+					}

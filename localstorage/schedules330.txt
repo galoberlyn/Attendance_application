@@ -1,0 +1,9 @@
+{ "time":"3:30-4:30",
+						"data":[
+						{"name":"Beverly Ferrer", "room":"s522"},
+						{"name":"Mark Jeff Parra", "room":"s326"},
+						{"name":"Jo Montes", "room":"s542"},
+						{"name":"Randy Domantay", "room":"s523"},
+						{"name":"Rhoderic Makil", "room":"s425"}
+						]
+					}

@@ -1,0 +1,191 @@
+{ "storedRecords" : "records",
+	"details" : [
+		{	
+			"time":"730-830",
+			"data":[
+				{"allpresent":true,"date":"4/2/2017"}
+				]
+		},
+
+		{
+			"time":"830-930",
+			"data":[{"name":"Jo Montes", "absent":1, "date":"4/3/2017"},
+					{"name":"Mark Jeff Parra", "late":13, "date":"4/3/2017"},
+					{"name":"Randy Domantay", "absent":1, "substitute":true, "date":"4/3/2017"},
+					{"name":"Ali Mangaliag", "absent":1, "substitute":true, "date":"4/3/2017"},
+					{"name":"Lambert Famorca", "absent":1, "date":"4/3/2017"}
+					]
+		},	
+
+		{
+			"time":"130-230",
+			"data":[{"name":"Ali Mangaliag", "late":4, "date":"5/5/2017"},
+					{"name":"Lambert Famorca", "late":3, "date":"5/5/2017"},
+					{"name":"Randy Domantay", "absent":1, "date":"5/5/2017"},
+					{"name":"Mark Jeff Parra", "absent":1,"substitute":true, "date":"5/5/2017"},
+					{"name":"Gerry Paul Genove", "absent":1, "date":"5/5/2017"}
+					]
+		},
+
+		{
+			"time":"830-930",
+			"data":[
+				{"allpresent":true,"date":"5/8/2017"}
+				]
+		},
+
+		{
+			"time":"330-430",
+			"data":[{"name":"Gerry Paul Genove", "late":10, "date":"5/8/2017"},
+					{"name":"Lambert Famorca", "absent":1, "date":"5/8/2017"},
+					{"name":"Randy Domantay", "absent":1, "date":"5/8/2017"},
+					{"name":"Maria Concepcion Clemente", "absent":1,"substitute":true, "date":"5/8/2017"}
+					]
+		},
+
+		{
+			"time":"1030-1200",
+			"data":[{"name":"Janet Etliong", "late":2, "date":"4/6/2017"},
+					{"name":"Dalos Miguel", "absent":1, "date":"4/6/2017"},
+					{"name":"Jonathan Ramirez", "absent":1, "date":"4/6/2017"},
+					{"name":"Maria Concepcion Clemente", "absent":1,"substitute":true, "date":"4/10/2017"},
+					{"name":"Lambert Famorca", "late":10, "date":"5/8/2017"}
+
+					]
+		},	
+
+		{
+			"time":"730-830",
+			"data":[{"name":"Mark Jeff Parra", "late":4, "date":"4/7/2017"},
+					{"name":"Rhoderic Makil", "absent":1, "date":"4/7/2017"},
+					{"name":"Jo Montes", "absent":1, "date":"4/7/2017"},
+					{"name":"Cess Mercado", "late":1, "date":"4/7/2017"}
+					]
+		},
+
+		{
+			"time":"1130-1230",
+			"data":[{"name":"Laurence Balmeo", "absent":1, "date":"5/3/2017"},
+					{"name":"Bench Bacani", "absent":1, "date":"5/3/2017"},
+					{"name":"Cess Mercado", "late":4, "date":"5/3/2017"},
+					{"name":"Ali Mangaliag", "absent":1, "date":"5/3/2017"},
+					{"name":"Jo Montes", "late":10, "date":"5/3/2017"}
+
+
+					]
+		},		
+
+		{	
+			"time":"730-830",
+			"data":[
+				{"allpresent":true,"date":"5/2/2017"}
+				]
+		},
+
+		{
+			"time":"1130-1230",
+			"data":[{"name":"Maria Concepcion Clemente", "absent":1, "date":"4/10/2017"},
+					{"name":"Lambert Famorca", "absent":1, "date":"4/10/2017"},
+					{"name":"Laurence Balmeo", "absent":1,"substitute":true, "date":"4/10/2017"}
+					]
+		},
+
+
+		{
+			"time":"830-930",
+			"data":[{"name":"Gerry Paul Genove", "absent":1, "substitute":true, "date":"5/1/2017"},
+					{"name":"Ali Mangaliag", "absent":1, "date":"5/1/2017"},
+					{"name":"Randy Domantay", "late":2, "date":"5/1/2017"}
+					]
+		},
+
+		{
+			"time":"100-230",
+			"data":[{"name":"Jannet Etliong", "late":3, "date":"4/27/2017"},
+					{"name":"Laurence Balmeo", "absent":1, "date":"4/27/2017"},
+					{"name":"Rhoderic Makil", "late":2, "date":"4/27/2017"},
+					{"name":"Gerry Paul Genove", "absent":1, "substitute":true, "date":"4/27/2017"}
+					]
+		},		
+
+		{
+			"time":"100-200",
+			"data":[{"name":"Cess Mercado", "late":2, "date":"4/26/2017"},
+					{"name":"Laurence Balmeo", "absent":1, "date":"4/26/2017"},
+					{"name":"Randy Domantay", "absent":1, "substitute":true, "date":"4/26/2017"}
+
+					]
+		},
+
+		{
+			"time":"300-400",
+			"data":[{"name":"Ali Mangaliag", "absent":1, "date":"4/15/2017"},
+					{"name":"Mark Jeff Parra", "late":2, "date":"4/15/2017"},
+					{"name":"Maria Concepcion Clemente", "absent":1, "date":"4/15/2017"},
+					{"name":"Dalos Miguel", "late":1, "date":"4/15/2017"},
+					{"name":"Rhoderic Makil", "absent":1, "date":"4/15/2017"}
+
+					]
+		},
+		
+		{	
+			"time":"730-830",
+			"data":[
+				{"allpresent":true,"date":"5/11/2017"}
+				]
+		},
+
+		{	
+			"time":"1030-1130",
+			"data":[
+				{"allpresent":true,"date":"5/24/2017"}
+				]
+		},
+
+		{
+			"time":"200-300",
+			"data":[{"name":"Mark Jeff Parra", "absent":1, "date":"5/27/2017"},
+					{"name":"Jonathan Ramirez", "late":2, "date":"5/27/2017"},
+					{"name":"Janet Etliong", "late":10, "date":"5/27/2017"},
+					{"name":"Bench Bacani", "absent":1, "substitute":true, "date":"5/27/2017"},
+					{"name":"Dalos Miguel", "late":5, "date":"5/27/2017"}
+
+					]
+		},
+
+		{
+			"time":"830-930",
+			"data":[{"name":"Jo Montes", "absent":1, "date":"5/12/2017"},
+					{"name":"Randy Domantay", "absent":1, "date":"5/12/2017"},
+					{"name":"Laurence Balmeo", "absent":1, "date":"5/12/2017"},
+					{"name":"Lambert Famorca", "late":2, "date":"5/12/2017"},
+					{"name":"Bench Bacani", "late":5, "date":"5/12/2017"}
+
+					]
+		},
+
+		{	
+			"time":"430-530",
+			"data":[
+				{"allpresent":true,"date":"4/30/2017"}
+				]
+		},
+
+		{	
+			"time":"530-630",
+			"data":[
+				{"allpresent":true,"date":"4/30/2017"}
+				]
+		},
+
+		{
+			"time":"200-300",
+			"data":[{"name":"Dalos Miguel", "absent":1, "date":"5/10/2017"},
+					{"name":"Jannet Etliong", "late":5, "date":"5/10/2017"},
+					{"name":"Jonathan Ramirez", "late":2, "date":"5/10/2017"},
+					{"name":"Maria Concepcion Clemente", "late":5, "date":"5/10/2017"}
+					]
+		}
+
+	]
+}

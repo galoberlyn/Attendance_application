@@ -1,0 +1,9 @@
+{ "time":"9:30-10:30",
+						"data":[
+						{"name":"Bench Bacani", "room":"s326"},
+						{"name":"Vicoy Ferrer", "room":"s522"},
+						{"name":"Jo Montes", "room":"s542"},
+						{"name":"Mark Jeff Parra", "room":"s523"},
+						{"name":"Gerry Paul Genove", "room":"s425"}
+						]
+					}
